@@ -1,6 +1,6 @@
 
 
-# ❄️ Token Freezer: Take Control of Your Token Liquidity 🚀
+# ❄️Token Freezer: Take Control of Your Token Liquidity🚀
 
 ### 📌 **Overview**
 The **Token Freezer** is your ultimate tool for managing token liquidity! It tracks wallets buying your token from **Raydium AMM V4 Pools** and executes freeze transactions. This ensures users cannot sell their tokens immediately, giving you **full control** over the pool's flow and stability. 🛡️💎
